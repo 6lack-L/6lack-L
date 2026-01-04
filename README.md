@@ -65,10 +65,6 @@
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6lack-L)](https://github.com/anuraghazra/github-readme-stats)
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=6lack-L.6lack-L&"  />
 </div>
