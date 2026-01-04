@@ -2,11 +2,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=6lack-L.6lack-L&"  />
-</div>
 
 ###
 
@@ -70,10 +65,12 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/6lack-L/6lack-L/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/6lack-L/6lack-L/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/6lack-L/6lack-L/output/pacman-contribution-graph.svg">
-</picture>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6lack-L)](https://github.com/anuraghazra/github-readme-stats)
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=6lack-L.6lack-L&"  />
+</div>
 
 ###
