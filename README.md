@@ -5,15 +5,13 @@
 
 ###
 <div align="center">
-  <a href="https://linkedin.com/in/lodo-loro-330a9a210" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/547548080027861012" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=6lack-L&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <p>
+    <a href="https://linkedin.com/in/lodo-loro-330a9a210" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>&nbsp;&nbsp;
+    <a href="https://discord.com/users/547548080027861012" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" /></a>
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=6lack-L&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  </p>
 </div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=6lack-L&show_icons=true&theme=transparent" alt="GitHub Stats"/>
