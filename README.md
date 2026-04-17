@@ -6,7 +6,7 @@
 ###
 
 <div align="center" style="display:flex; align-items:center; justify-content:center; gap:16px; flex-wrap:wrap;">
-  <div align="left" style="display:flex; gap:10px;">
+  <div align="center" style="display:flex; gap:10px;">
     <a href="linkedin.com/in/lodo-loro-330a9a210" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
     <a href="https://discord.com/users/547548080027861012" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" /></a>
   </div>
